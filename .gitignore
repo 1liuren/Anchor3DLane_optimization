@@ -1,0 +1,143 @@
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# 忽略日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 忽略环境变量配置
+.env
+.env.local
+.env.*.local
+
+# 忽略 Node.js 依赖
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 忽略构建产物
+dist/
+build/
+out/
+coverage/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.sqlite3
+
+# 忽略 VSCode 配置文件（可选）
+.vscode/
+
+# 忽略 IDE 配置文件
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 忽略临时文件
+*.swp
+*.tmp
+*.bak
+*.~*
+
+# 忽略 Mac 系统特有文件
+.AppleDouble
+.LSOverride
+
+# 忽略压缩包等二进制文件（可根据项目需求决定）
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 忽略测试快照（如适用）
+__snapshots__/
+
+# 忽略 CI/CD 临时文件（如适用）
+*.pid
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# 忽略日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 忽略环境变量配置
+.env
+.env.local
+.env.*.local
+
+# 忽略 Node.js 依赖
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 忽略构建产物
+dist/
+build/
+out/
+coverage/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.sqlite3
+
+# 忽略 VSCode 配置文件（可选）
+.vscode/
+
+# 忽略 IDE 配置文件
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 忽略临时文件
+*.swp
+*.tmp
+*.bak
+*.~*
+
+# 忽略 Mac 系统特有文件
+.AppleDouble
+.LSOverride
+
+# 忽略压缩包等二进制文件（可根据项目需求决定）
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 忽略测试快照（如适用）
+__snapshots__/
+
+# 忽略 CI/CD 临时文件（如适用）
+*.pid
+./Apollo_Sim_3D_Lane_Release/
+./output/
+./show/
+./show_optimization/
+./jarvis-2021.4.2-py2.py3-none-any.whl
