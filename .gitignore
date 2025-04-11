@@ -136,8 +136,8 @@ __snapshots__/
 
 # 忽略 CI/CD 临时文件（如适用）
 *.pid
-./Apollo_Sim_3D_Lane_Release/
-./output/
-./show/
-./show_optimization/
-./jarvis-2021.4.2-py2.py3-none-any.whl
+Apollo_Sim_3D_Lane_Release/
+output/
+show/
+show_optimization/
+jarvis-2021.4.2-py2.py3-none-any.whl
